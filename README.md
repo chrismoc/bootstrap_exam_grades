@@ -1,3 +1,5 @@
 # boostrap_exam_grades
 
-Used bootstrap sample to calculate 95% uncertrainty intervalbased on law tests of my wife.
+For fun: Used bootstrap sample to calculate 95% uncertrainty interval based on a way too small dataset made of law test results of my wife.
+
+After calculation randomized grades in csv.
